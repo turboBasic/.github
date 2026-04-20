@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="480"
+   height="480.00003"
+   viewBox="0 0 479.99999 480.00001"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="penrose.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="231.5"
+     inkscape:cy="240"
+     inkscape:window-width="1512"
+     inkscape:window-height="921"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title2">penrose avatar</title>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradientTeal">
+      <stop
+         style="stop-color:#001d1d;stop-opacity:1;"
+         offset="0"
+         id="stopLGT1" />
+      <stop
+         style="stop-color:#007d8a;stop-opacity:1;"
+         offset="0.78019798"
+         id="stopLGT2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradientBlue">
+      <stop
+         style="stop-color:#17405d;stop-opacity:1;"
+         offset="0.33962265"
+         id="stopLGB1" />
+      <stop
+         style="stop-color:#3573a0;stop-opacity:1;"
+         offset="0.78019798"
+         id="stopLGB2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradientViolet">
+      <stop
+         style="stop-color:#1d182f;stop-opacity:1;"
+         offset="0"
+         id="stopLGV1" />
+      <stop
+         style="stop-color:#5b4f8c;stop-opacity:1;"
+         offset="0.78019798"
+         id="stopLGV2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradientTeal"
+       id="linearGradient6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,598.61302,396.8504)"
+       x1="-33.779148"
+       y1="-13.742405"
+       x2="42.439445"
+       y2="43.692425" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradientBlue"
+       id="linearGradient8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,598.61302,396.8504)"
+       x1="8.4890442"
+       y1="-32.561413"
+       x2="0.17124677"
+       y2="62.511444" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradientViolet"
+       id="linearGradient10"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,598.61302,396.8504)"
+       x1="-12.770459"
+       y1="-29.573584"
+       x2="21.430746"
+       y2="59.523602" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <circle
+         style="display:inline;opacity:0.881944;fill:none;stroke:#000000;stroke-width:1.29815;stroke-opacity:1"
+         id="circle10"
+         cx="512.05457"
+         cy="545.12219"
+         r="341.68216" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>penrose avatar</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>penrose avatar</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Andrii Melnyk</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andrii Melnyk</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Avatar  based on penrose triangle (https://en.wikipedia.org/wiki/Penrose_triangle)</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="penrose-round-480"
+     transform="translate(-473.42161,304.84853)"
+     style="display:inline">
+    <g
+       id="use1"
+       transform="matrix(0.70240719,0,0,0.70240719,353.75082,-447.74624)"
+       clip-path="url(#clipPath10)">
+      <g
+         id="g4"
+         transform="matrix(2.6031639,0,0,2.6031639,-0.1749076,1.4757653)">
+        <g
+           id="use2"
+           style="display:inline;fill:url(#linearGradient6)"
+           transform="translate(-401.89569,-226.96063)">
+          <path
+             style="display:inline;stroke:#000000;stroke-width:0.377953;stroke-linecap:square"
+             d="m 434.95468,566.92914 130.92667,-226.77165 32.73167,56.69291 -65.46334,113.38583 h 261.85335 l -32.73167,56.69291 z"
+             id="path5" />
+          <path
+             id="path6"
+             style="display:inline;opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linecap:butt;stroke-dasharray:none"
+             d="M 572.42768,351.49607 454.59367,555.59056 H 768.81739 M 578.97401,362.83464 474.23266,544.25198 H 775.36372 M 585.52033,374.17321 493.87164,532.9134 l 288.03841,-10e-6 M 592.06668,385.51182 513.51067,521.57481 h 274.94602" />
+        </g>
+        <g
+           id="use3"
+           style="fill:url(#linearGradient8)"
+           transform="rotate(-120,332.14729,437.18265)">
+          <path
+             style="display:inline;stroke:#000000;stroke-width:0.377953;stroke-linecap:square"
+             d="m 434.95468,566.92914 130.92667,-226.77165 32.73167,56.69291 -65.46334,113.38583 h 261.85335 l -32.73167,56.69291 z"
+             id="path7" />
+          <path
+             id="path8"
+             style="display:inline;opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linecap:butt;stroke-dasharray:none"
+             d="M 572.42768,351.49607 454.59367,555.59056 H 768.81739 M 578.97401,362.83464 474.23266,544.25198 H 775.36372 M 585.52033,374.17321 493.87164,532.9134 l 288.03841,-10e-6 M 592.06668,385.51182 513.51067,521.57481 h 274.94602" />
+        </g>
+        <g
+           id="use4"
+           style="fill:url(#linearGradient10)"
+           transform="rotate(120,463.18306,205.14807)">
+          <path
+             style="display:inline;stroke:#000000;stroke-width:0.377953;stroke-linecap:square"
+             d="m 434.95468,566.92914 130.92667,-226.77165 32.73167,56.69291 -65.46334,113.38583 h 261.85335 l -32.73167,56.69291 z"
+             id="path9" />
+          <path
+             id="path10"
+             style="display:inline;opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linecap:butt;stroke-dasharray:none"
+             d="M 572.42768,351.49607 454.59367,555.59056 H 768.81739 M 578.97401,362.83464 474.23266,544.25198 H 775.36372 M 585.52033,374.17321 493.87164,532.9134 l 288.03841,-10e-6 M 592.06668,385.51182 513.51067,521.57481 h 274.94602" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

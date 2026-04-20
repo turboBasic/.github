@@ -1,3 +1,7 @@
 # IT/Technology Terminology
 
 # Add words here, one per line
+MOIA
+
+# Inkscape SVG
+inkscape

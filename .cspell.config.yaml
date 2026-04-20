@@ -13,6 +13,7 @@ dictionaries:
   - aws
   - project-words
   - terraform
+  - svg
 
 useGitignore: true
 

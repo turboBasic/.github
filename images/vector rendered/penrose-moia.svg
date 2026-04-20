@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="480"
+   height="480.00003"
+   viewBox="0 0 479.99999 480.00001"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="penrose-moia.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1"
+     inkscape:cx="231"
+     inkscape:cy="240"
+     inkscape:window-width="1291"
+     inkscape:window-height="921"
+     inkscape:window-x="221"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title2">penrose moia</title>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradientTeal">
+      <stop
+         style="stop-color:#001d1d;stop-opacity:1;"
+         offset="0"
+         id="stopLGT1" />
+      <stop
+         style="stop-color:#007d8a;stop-opacity:1;"
+         offset="0.78019798"
+         id="stopLGT2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradientBlue">
+      <stop
+         style="stop-color:#17405d;stop-opacity:1;"
+         offset="0.33962265"
+         id="stopLGB1" />
+      <stop
+         style="stop-color:#3573a0;stop-opacity:1;"
+         offset="0.78019798"
+         id="stopLGB2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradientViolet">
+      <stop
+         style="stop-color:#1d182f;stop-opacity:1;"
+         offset="0"
+         id="stopLGV1" />
+      <stop
+         style="stop-color:#5b4f8c;stop-opacity:1;"
+         offset="0.78019798"
+         id="stopLGV2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradientTeal"
+       id="linearGradient6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,598.61302,396.8504)"
+       x1="-33.779148"
+       y1="-13.742405"
+       x2="42.439445"
+       y2="43.692425" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradientBlue"
+       id="linearGradient7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,598.61302,396.8504)"
+       x1="8.4890442"
+       y1="-32.561413"
+       x2="0.17124677"
+       y2="62.511444" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradientViolet"
+       id="linearGradient9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,598.61302,396.8504)"
+       x1="-12.770459"
+       y1="-29.573584"
+       x2="21.430746"
+       y2="59.523602" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <circle
+         style="opacity:0.881944;fill:none;stroke:#000000;stroke-width:1.29815;stroke-opacity:1"
+         id="circle9"
+         cx="512.05457"
+         cy="545.12219"
+         r="341.68216" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>penrose moia</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>penrose avatar moia</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Andrii Melnyk</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andrii Melnyk</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Avatar  based on penrose triangle (https://en.wikipedia.org/wiki/Penrose_triangle)</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g5"
+     transform="translate(-473.42161,-190.15149)">
+    <g
+       id="penrose-moia"
+       transform="matrix(0.70240719,0,0,0.70240719,353.75082,47.253771)"
+       clip-path="url(#clipPath9)">
+      <g
+         id="g3"
+         transform="matrix(2.6031639,0,0,2.6031639,-0.1749076,1.4757653)">
+        <g
+           id="use1"
+           style="fill:url(#linearGradient6)"
+           transform="translate(-401.89569,-226.96063)">
+          <path
+             style="display:inline;stroke:#000000;stroke-width:0.377953;stroke-linecap:square"
+             d="m 434.95468,566.92914 130.92667,-226.77165 32.73167,56.69291 -65.46334,113.38583 h 261.85335 l -32.73167,56.69291 z"
+             id="path4" />
+          <path
+             id="path5"
+             style="display:inline;opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linecap:butt;stroke-dasharray:none"
+             d="M 572.42768,351.49607 454.59367,555.59056 H 768.81739 M 578.97401,362.83464 474.23266,544.25198 H 775.36372 M 585.52033,374.17321 493.87164,532.9134 l 288.03841,-10e-6 M 592.06668,385.51182 513.51067,521.57481 h 274.94602" />
+        </g>
+        <g
+           id="use2"
+           style="fill:url(#linearGradient7)"
+           transform="rotate(-120,332.14729,437.18265)">
+          <path
+             style="display:inline;stroke:#000000;stroke-width:0.377953;stroke-linecap:square"
+             d="m 434.95468,566.92914 130.92667,-226.77165 32.73167,56.69291 -65.46334,113.38583 h 261.85335 l -32.73167,56.69291 z"
+             id="path6" />
+          <path
+             id="path7"
+             style="display:inline;opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linecap:butt;stroke-dasharray:none"
+             d="M 572.42768,351.49607 454.59367,555.59056 H 768.81739 M 578.97401,362.83464 474.23266,544.25198 H 775.36372 M 585.52033,374.17321 493.87164,532.9134 l 288.03841,-10e-6 M 592.06668,385.51182 513.51067,521.57481 h 274.94602" />
+        </g>
+        <g
+           id="use3"
+           style="fill:url(#linearGradient9)"
+           transform="rotate(120,463.18306,205.14807)">
+          <path
+             style="display:inline;stroke:#000000;stroke-width:0.377953;stroke-linecap:square"
+             d="m 434.95468,566.92914 130.92667,-226.77165 32.73167,56.69291 -65.46334,113.38583 h 261.85335 l -32.73167,56.69291 z"
+             id="path8" />
+          <path
+             id="path9"
+             style="display:inline;opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linecap:butt;stroke-dasharray:none"
+             d="M 572.42768,351.49607 454.59367,555.59056 H 768.81739 M 578.97401,362.83464 474.23266,544.25198 H 775.36372 M 585.52033,374.17321 493.87164,532.9134 l 288.03841,-10e-6 M 592.06668,385.51182 513.51067,521.57481 h 274.94602" />
+        </g>
+      </g>
+    </g>
+    <path
+       d="M 953.40795,595.56928 907.69132,491.33187 861.97466,595.56928 h 17.67967 l 28.03699,-64.07311 28.03695,64.07311 z m -160.16482,0 h 17.57529 V 495.47481 h -17.57529 z m -67.89556,-13.38811 c 10.14754,-10.09484 15.27401,-22.31491 15.27401,-36.33972 0,-15.93922 -5.64934,-29.0079 -16.73828,-38.88977 -10.04317,-8.92575 -21.5506,-13.38811 -34.2092,-13.38811 -14.33264,0 -26.6771,5.10013 -36.82464,15.08744 -10.04319,9.98836 -15.1686,22.31385 -15.1686,36.65914 0,14.23775 5.12541,26.56325 15.1686,36.76455 10.04319,10.09378 22.17891,15.30039 36.09198,15.30039 14.12286,0 26.36294,-5.10014 36.40613,-15.19498 z m -2.40563,-36.4462 c 0,9.66895 -3.24373,17.95693 -9.83447,24.54449 -6.48531,6.69405 -14.54137,10.09485 -24.0606,10.09485 -9.52031,0 -17.57531,-3.39974 -23.95731,-10.09485 -6.48639,-6.58756 -9.72903,-14.982 -9.72903,-24.86389 0,-9.66895 3.34702,-18.0634 9.83338,-24.8639 6.48638,-6.69406 14.64679,-10.0938 24.16604,-10.0938 8.78767,0 16.63391,3.29432 23.32902,9.88189 6.80052,6.69405 10.25297,15.19497 10.25297,25.39521 z m -134.11709,49.83431 h 18.41231 L 563.71742,491.33187 540.28405,556.67949 516.95502,491.33081 473.4353,595.56928 h 18.41231 l 24.68891,-59.18489 23.74753,63.32885 23.74751,-63.32885 z"
+       id="path1"
+       style="display:inline;fill:#08ff00;fill-opacity:1;stroke:none;stroke-width:1.259;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

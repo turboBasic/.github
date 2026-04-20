@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="480"
+   height="480.00003"
+   viewBox="0 0 479.99999 480.00001"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="penrose-dxc.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1"
+     inkscape:cx="231.5"
+     inkscape:cy="240"
+     inkscape:window-width="1512"
+     inkscape:window-height="921"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title2">penrose dxc</title>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradientTeal">
+      <stop
+         style="stop-color:#001d1d;stop-opacity:1;"
+         offset="0"
+         id="stopLGT1" />
+      <stop
+         style="stop-color:#007d8a;stop-opacity:1;"
+         offset="0.78019798"
+         id="stopLGT2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradientBlue">
+      <stop
+         style="stop-color:#17405d;stop-opacity:1;"
+         offset="0.33962265"
+         id="stopLGB1" />
+      <stop
+         style="stop-color:#3573a0;stop-opacity:1;"
+         offset="0.78019798"
+         id="stopLGB2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradientViolet">
+      <stop
+         style="stop-color:#1d182f;stop-opacity:1;"
+         offset="0"
+         id="stopLGV1" />
+      <stop
+         style="stop-color:#5b4f8c;stop-opacity:1;"
+         offset="0.78019798"
+         id="stopLGV2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradientTeal"
+       id="linearGradient7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,598.61302,396.8504)"
+       x1="-33.779148"
+       y1="-13.742405"
+       x2="42.439445"
+       y2="43.692425" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradientBlue"
+       id="linearGradient9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,598.61302,396.8504)"
+       x1="8.4890442"
+       y1="-32.561413"
+       x2="0.17124677"
+       y2="62.511444" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradientViolet"
+       id="linearGradient11"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,598.61302,396.8504)"
+       x1="-12.770459"
+       y1="-29.573584"
+       x2="21.430746"
+       y2="59.523602" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <circle
+         style="opacity:0.881944;fill:none;stroke:#000000;stroke-width:1.29815;stroke-opacity:1"
+         id="circle11"
+         cx="512.05457"
+         cy="545.12219"
+         r="341.68216" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>penrose dxc</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>penrose avatar dxc</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Andrii Melnyk</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andrii Melnyk</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Avatar  based on penrose triangle (https://en.wikipedia.org/wiki/Penrose_triangle)</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4"
+     transform="translate(-968.4215,304.84853)">
+    <g
+       id="penrose-dxc"
+       transform="matrix(0.70240719,0,0,0.70240719,848.75083,-447.74624)"
+       clip-path="url(#clipPath11)">
+      <g
+         id="g3"
+         transform="matrix(2.6031639,0,0,2.6031639,-0.1749076,1.4757653)">
+        <g
+           id="use1"
+           style="fill:url(#linearGradient7)"
+           transform="translate(-401.89569,-226.96063)">
+          <path
+             style="display:inline;stroke:#000000;stroke-width:0.377953;stroke-linecap:square"
+             d="m 434.95468,566.92914 130.92667,-226.77165 32.73167,56.69291 -65.46334,113.38583 h 261.85335 l -32.73167,56.69291 z"
+             id="path6" />
+          <path
+             id="path7"
+             style="display:inline;opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linecap:butt;stroke-dasharray:none"
+             d="M 572.42768,351.49607 454.59367,555.59056 H 768.81739 M 578.97401,362.83464 474.23266,544.25198 H 775.36372 M 585.52033,374.17321 493.87164,532.9134 l 288.03841,-10e-6 M 592.06668,385.51182 513.51067,521.57481 h 274.94602" />
+        </g>
+        <g
+           id="use2"
+           style="fill:url(#linearGradient9)"
+           transform="rotate(-120,332.14729,437.18265)">
+          <path
+             style="display:inline;stroke:#000000;stroke-width:0.377953;stroke-linecap:square"
+             d="m 434.95468,566.92914 130.92667,-226.77165 32.73167,56.69291 -65.46334,113.38583 h 261.85335 l -32.73167,56.69291 z"
+             id="path8" />
+          <path
+             id="path9"
+             style="display:inline;opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linecap:butt;stroke-dasharray:none"
+             d="M 572.42768,351.49607 454.59367,555.59056 H 768.81739 M 578.97401,362.83464 474.23266,544.25198 H 775.36372 M 585.52033,374.17321 493.87164,532.9134 l 288.03841,-10e-6 M 592.06668,385.51182 513.51067,521.57481 h 274.94602" />
+        </g>
+        <g
+           id="use3"
+           style="fill:url(#linearGradient11)"
+           transform="rotate(120,463.18306,205.14807)">
+          <path
+             style="display:inline;stroke:#000000;stroke-width:0.377953;stroke-linecap:square"
+             d="m 434.95468,566.92914 130.92667,-226.77165 32.73167,56.69291 -65.46334,113.38583 h 261.85335 l -32.73167,56.69291 z"
+             id="path10" />
+          <path
+             id="path11"
+             style="display:inline;opacity:0.5;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linecap:butt;stroke-dasharray:none"
+             d="M 572.42768,351.49607 454.59367,555.59056 H 768.81739 M 578.97401,362.83464 474.23266,544.25198 H 775.36372 M 585.52033,374.17321 493.87164,532.9134 l 288.03841,-10e-6 M 592.06668,385.51182 513.51067,521.57481 h 274.94602" />
+        </g>
+      </g>
+    </g>
+    <path
+       class="st0"
+       d="m 1156.8665,70.496668 c -0.6891,4.627156 -2.0018,9.155854 -4.0693,13.61892 -3.0191,6.82587 -7.2196,13.389206 -12.8641,18.902412 -10.6326,10.76387 -26.5158,17.58974 -42.7601,17.58974 h -41.0865 V 96.979735 h 41.0537 c 9.7137,0 19.0337,-3.675473 25.3344,-10.238809 4.5615,-4.627149 7.7448,-10.271621 9.3856,-16.244258 z m 0,-18.016356 c -0.6891,-4.627156 -2.0018,-9.155854 -4.0693,-13.618928 -3.0191,-6.82587 -7.2196,-13.389207 -12.8641,-18.902408 C 1129.3005,9.1951075 1113.4173,2.3692376 1097.1402,2.3692376 h -41.0537 V 25.997245 h 41.0537 c 9.7137,0 19.0337,3.675473 25.3344,10.238809 4.5615,4.627149 7.7448,10.271621 9.3856,16.244258 z m 51.555,28.648961 -31.3727,39.478467 h -31.1102 l 46.9607,-59.102844 -46.9279,-59.1356584 h 31.1102 l 31.3727,39.4456494 31.34,-39.4456494 h 31.1102 l -46.9935,59.1356584 46.9606,59.102844 h -31.1102 z m 76.5613,-10.632605 c 1.6409,5.972637 4.8241,11.617109 9.3856,16.244258 6.3008,6.563336 15.6207,10.238809 25.3345,10.238809 h 41.0537 v 23.628005 h -41.0537 c -16.2771,0 -32.1604,-6.82587 -42.7601,-17.58974 -5.6445,-5.513206 -9.8451,-12.076542 -12.8642,-18.902412 -2.0675,-4.463066 -3.3801,-8.991764 -4.0693,-13.61892 z m 0,-18.016356 c 1.6409,-5.972637 4.8241,-11.617109 9.3856,-16.244258 6.3008,-6.563336 15.6207,-10.238809 25.3345,-10.238809 h 41.0537 V 2.3692376 h -41.0537 c -16.2771,0 -32.1604,6.8258699 -42.7601,17.5897384 -5.6445,5.513201 -9.8451,12.076538 -12.8642,18.902408 -2.0675,4.463074 -3.3801,8.991772 -4.0693,13.618928 z"
+       id="path5"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.59086;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
