@@ -1,5 +1,9 @@
 .idea/
-.vscode/
 
-# MacOS files
+# macOS files
 .DS_Store
+
+# Windows files
+Desktop.ini
+._*
+Thumbs.db
